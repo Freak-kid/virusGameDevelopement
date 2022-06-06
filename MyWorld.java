@@ -16,14 +16,14 @@ public class MyWorld extends World
         
         //bgMusic(music);
         
-        int randNum;
+        /*int randNum;
         randNum = (int) (30 + Math.random() * (50-30+1));
         
         for(int i=0; i <= 6; i++){
             dash = dash + 50;
             addObject(new Virus(), 480, randNum); amir hensem
             
-        }
+        }*/
     }
     public void act()
     {    
